@@ -14,6 +14,9 @@ int main()
 	int m = 1;
 	int* x = test(&m);
 
+
+
+
 	cout << *x << endl;
 	cout << m << endl;
 
