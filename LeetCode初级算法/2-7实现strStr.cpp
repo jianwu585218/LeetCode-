@@ -11,15 +11,12 @@ int * test(int *x)
 int main()
 {
 
-	int m = 1;
-	int* x = test(&m);
+	int g = 2;
+	int b = 3;
+	//b = int(float((b + g) / 2) +0.6);
+	cout << (b + g+1) / 2<< endl;
 
-
-
-
-	cout << *x << endl;
-	cout << m << endl;
-
+	cout << b << endl;
 	system("pause");
 	return 0;
 }

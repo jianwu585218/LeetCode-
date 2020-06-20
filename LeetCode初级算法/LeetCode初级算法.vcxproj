@@ -122,6 +122,7 @@
     <ClCompile Include="2.3字符串-字符串中的第一个唯一字符.cpp" />
     <ClCompile Include="2.5字符串-验证回文字符.cpp" />
     <ClCompile Include="2.6字符串转整数.cpp" />
+    <ClCompile Include="5.1排序和搜索-第一个错误的版本.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="leetcode.h" />

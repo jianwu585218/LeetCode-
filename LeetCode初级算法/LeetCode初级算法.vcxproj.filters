@@ -51,6 +51,9 @@
     <ClCompile Include="2-7实现strStr.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5.1排序和搜索-第一个错误的版本.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="leetcode.h">
